@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/elsa-test/static/css/main.bf069e5f.css",
-    "main.js": "/elsa-test/static/js/main.7266e8f9.js",
+    "main.js": "/elsa-test/static/js/main.83be23bc.js",
     "static/media/footer-img.png": "/elsa-test/static/media/footer-img.21bbc89b563d458c548f.png",
     "static/media/mobile-main.png": "/elsa-test/static/media/mobile-main.9cea7334a31b57307b4e.png",
     "static/media/mobile-banner.png": "/elsa-test/static/media/mobile-banner.9a106a19162062e29e8a.png",
     "index.html": "/elsa-test/index.html",
     "main.bf069e5f.css.map": "/elsa-test/static/css/main.bf069e5f.css.map",
-    "main.7266e8f9.js.map": "/elsa-test/static/js/main.7266e8f9.js.map"
+    "main.83be23bc.js.map": "/elsa-test/static/js/main.83be23bc.js.map"
   },
   "entrypoints": [
     "static/css/main.bf069e5f.css",
-    "static/js/main.7266e8f9.js"
+    "static/js/main.83be23bc.js"
   ]
 }
