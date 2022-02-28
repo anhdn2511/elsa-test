@@ -1,0 +1,11 @@
+.gradient-button {
+    background-image: linear-gradient(to right, #3DFFC8 10%, #40F6CF 20%, #49DCE1 30%, #57B3FF 40%);
+    border-radius: 15px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.gradient-button:hover {
+    color: #0C2440;
+}
