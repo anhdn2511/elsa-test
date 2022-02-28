@@ -1,9 +1,9 @@
 .info-first{
-    background-image: linear-gradient(to right, #49DCE1, #39A3FB);
+  background-image: linear-gradient(to right, #49DCE1, #39A3FB);
 }
 
 .white-text{
-    color: #FFFFFF;
+  color: #FFFFFF;
 }
 
 input[type=radio] {

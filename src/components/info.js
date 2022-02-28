@@ -70,7 +70,7 @@ export default function Info() {
         <div class="container">
         <div class="row border" style={{height: 600, width: 550, borderRadius: 20, backgroundColor: 'white'}}>
             <div class ="col-12 col-md-12">
-                <div class="row justify-content-center align-items-center info-first" style={{height:110, borderTopLeftRadius: 20, borderTopRightRadius: 20}}>
+                <div class="row justify-content-center align-items-center    info-first" style={{height:110, borderTopLeftRadius: 20, borderTopRightRadius: 20}}>
                     <div class="col-8 col-md-8">
                         <h3 class="white-text ">CÙNG ỨNG DỤNG ELSA</h3>
                         <h3 class="white-text">NÓI TIẾNG ANH "THẢ GA"</h3>
